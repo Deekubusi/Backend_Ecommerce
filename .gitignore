@@ -1,0 +1,17 @@
+# Node
+node_modules/
+
+
+.env
+
+# SQLite database
+*.db
+*.sqlite
+*.sqlite3
+
+uploads/
+
+
+*.log
+
+.vscode/
